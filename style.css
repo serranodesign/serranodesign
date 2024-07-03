@@ -1,0 +1,229 @@
+.flex-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.custom-navbar .navbar-nav .nav-link {
+    color: #E3BA70;
+}
+
+.custom-navbar .navbar-nav .nav-link:hover {
+    color: #ffcc00;
+}
+
+
+.custom-navbar .navbar-brand {
+    color: #ffffff;
+}
+
+.custom-navbar .navbar-brand:hover {
+    color: #ffcc00;
+}
+
+.navbar-logo {
+    height: 40px;
+    margin-right: 10px; 
+    vertical-align: middle; 
+}
+
+
+.quieres-saber {
+    background-image: url(Imagenes/textura_.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 50px 0; 
+}
+
+
+#fondo h2 {
+    color: white;
+}
+
+#fondo p {
+    color: white;
+}
+
+#fondo2 {
+
+    background-image: url(Imagenes/textura_2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 25px;
+    height: 600px;
+    width: 1900px;
+
+}
+
+#fondo2 h2 {
+    color: #454c16;
+}
+
+#fondo2 p {
+    color: #454c16;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+.custom-btn {
+
+    color: white;
+    background-color: #795548;
+}
+
+
+.custom-footer {
+    background-color: #454c16;
+
+}
+
+.footer-text {
+    color: #E3BA70;
+}
+
+.custom-navbar {
+    background-color: #454c16;
+
+}
+
+.nav-item {
+    color: #E3BA70;
+}
+
+@font-face {
+    font-family: 'dinosaur';
+    src: url('fonts/dinosaur.woff2') format('woff2'),
+         url('fonts/dinosaur.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+
+.navbar-brand {
+    font-family: 'dinosaur', sans-serif;
+    font-weight: 900;
+    font-style: normal;
+}
+
+
+.custom-footer {
+    
+    padding: 20px 0;
+}
+
+.social-logo {
+    height: 40px; 
+    margin: 0 10px; 
+}
+
+.footer-logo {
+    height: 50px; 
+}
+
+.footer-text {
+    margin: 0; 
+}
+
+.custom-shadow {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.custom-bg {
+    background-color: #f8f9fa;
+}
+
+.custom-btn {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+}
+
+.custom-btn:hover {
+    background-color: #0056b3;
+}
+
+.custom-modal-footer-btn {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+}
+
+.custom-modal-footer-btn:hover {
+    background-color: #0056b3;
+}
+
+.custom-modal-text {
+    color: #333;
+}
+
+.mandibula{
+   background-image: url(Imagenes/textura_b.jpg);
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   padding: 25px;
+   
+
+}
+
+.porque{
+    background-image: url(Imagenes/textura_4.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 25px;
+}
+
+.section-background{
+    background-image: url(Imagenes/textura_a.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 25px;
+   
+}
+
+.textura_exhibiciones{
+    background-image: url(Imagenes/textura_b.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 25px;
+}
+
+.serinvestigador{
+    background-image: url(Imagenes/textura_.jpg);
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+
+.visitanos{
+    background-image: url(Imagenes/textura_a.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 25px;
+   
+}
+
+.fondo-iconos {
+    padding: 40px 0;
+    background-color: #444A2F;
+    color: #DAB46E;
+
+}
+
+.bg-image {
+    background-image: url('Imagenes/visitas.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 500px; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
